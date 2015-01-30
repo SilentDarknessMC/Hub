@@ -1,0 +1,20 @@
+##SDMC Fireworks
+FireworksEnabled: true
+FireworkShootMessage: Fireworks Away!
+
+##Teleport Bow
+TeleportBowEnabled: true
+GiveTeleportBowOnJoin: true
+
+##Heal & Feed
+HealEnabled: true
+FeedEnabled: true
+HealSignsEnabled: true
+FeedSignsEnabled: true
+
+##Permissions:
+##hub.*
+##hub.firework
+##hub.teleportbow
+##hub.heal
+##hub.feed

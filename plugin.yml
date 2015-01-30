@@ -1,0 +1,18 @@
+name: SDMC Hub Plugin
+main: com.silentdarknessmc.hub.Main
+description:  >
+              SDMC's Hub Plugin
+version: 1.0
+author: SDMC
+
+commands:
+  shoot:
+    description: Shoot A Firework From Where You're Standing!
+  heal:
+    usage: /<command>
+    aliases: [health, givehealth]
+    description: Heal Player
+  feed:
+    usage: /<command>
+    aliases: [food, sate]
+    description: Feed Player
